@@ -1,2 +1,4 @@
 # ABM_cryptocurrencies
 How does an individual’s propensity to buy affects macro-trend movements in a codependent cryptocurrency market characterised by the herding phenomena? A study on the joint behaviour of the most popular digital currencies.
+
+Complex financial systems exhibit universal market failures that are unaccounted for under traditional finance theory and modelling. In this paper a novel approach to modelling financial phenomena is applied to both analyse and predict extreme price changes, market bubbles, in the cryptocurrency market. Individual’s propensity to buy was identified as a main driver of price changes, leading to big price swings driven by relatively small changes in overall level of belief. The model performed well at identifying relative price direction, allowing it to be used as an early price deviance indicator.
